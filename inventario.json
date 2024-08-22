@@ -1,0 +1,29 @@
+{
+    "inventario": [
+        {
+            "producto": "crema colgate",
+            "precio": "195 bs",
+            "cantidad": "8 cajas"
+        },
+        {
+            "producto": "harina pan",
+            "precio": "256 bs",
+            "cantidad": "15 pacas(20 c/paca)"
+        },
+        {
+            "producto": "ron carupano",
+            "precio": "324 bs",
+            "cantidad": "12 cajas(12 botellas c/u)"
+        },
+        {
+            "producto": "mani",
+            "precio": "100 bs",
+            "cantidad": "8 bultos (50 kg c/u)"
+        },
+        {
+            "producto": "agua",
+            "precio": "147 bs",
+            "cantidad": "100 botellas"
+        }
+    ]
+}
